@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wordgame/static/css/main.e1402a68.css",
+    "main.js": "/wordgame/static/js/main.9c0ffe3f.js",
+    "static/js/787.39461157.chunk.js": "/wordgame/static/js/787.39461157.chunk.js",
+    "static/media/dark-honeycomb.png": "/wordgame/static/media/dark-honeycomb.b591ad6199194e173bfb.png",
+    "index.html": "/wordgame/index.html",
+    "main.e1402a68.css.map": "/wordgame/static/css/main.e1402a68.css.map",
+    "main.9c0ffe3f.js.map": "/wordgame/static/js/main.9c0ffe3f.js.map",
+    "787.39461157.chunk.js.map": "/wordgame/static/js/787.39461157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1402a68.css",
+    "static/js/main.9c0ffe3f.js"
+  ]
+}
